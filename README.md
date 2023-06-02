@@ -1,4 +1,4 @@
-### Oi gente, me chamo Stephanie sou Desenvolvedora Web Full-Stack 👋
+### Oi gente, me chamo Stephanie estou estudando para me tornar uma Desenvolvedora Web Full-Stack 👋
 
 - 🌱 Estou estudando atualmente pelo bootcamp da Labenu
 - 😄 Pronomes: Ela/Dela
