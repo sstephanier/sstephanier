@@ -3,7 +3,7 @@
 - 🌱 Estou estudando atualmente pelo bootcamp da Labenu
 - 😄 Pronomes: Ela/Dela
 
-<picture>
+<!-- <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=sstephanier&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -14,7 +14,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=sstephanier&show_icons=true" />
 </picture>
-
+ -->
 <!--
 **sstephanier/sstephanier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
