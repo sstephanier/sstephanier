@@ -1,6 +1,6 @@
 ### Oi gente, me chamo Stephanie estou estudando para me tornar uma Desenvolvedora Web Full-Stack 👋
 
-- 🌱 Estou estudando atualmente pelo bootcamp da Labenu
+- 🌱 Estou estudando atualmente pelo bootcamp da Labenu e cursando Análise e Desenvolvimento de Sistemas na UNOPAR
 - 😄 Pronomes: Ela/Dela
 
 <!-- <picture>
