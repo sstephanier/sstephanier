@@ -1,13 +1,13 @@
 # Oie, me chamo Stephanie Rodrigues 👋
 
-### Sobre mim
+## Sobre mim
 
 - 💻 Eu sou uma desenvolvedora Fullstack
 - 🎓 Eu estudo [Desenvolvimento de Software Fullstack](https://www.labenu.com.br/) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Análise e Desenvolvimento de Sistemas](https://www.unopar.com.br/paginas/cursos-pos-graduacao/) @ [Cubos Academy](https://cubos.academy/) | [Labenu](https://www.labenu.com.br/) | [Unopar](https://www.unopar.com.br/paginas/cursos-pos-graduacao/)
 - 🔎 Também sou curiosa sobre Engenharia Aeroespacial
 - 😄 Pronomes: Ela/Dela
 
-**Tecnologias e Ferramentas**
+## **Tecnologias e Ferramentas**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,12 +20,12 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Eu estou estudando... 🧩
+## **Eu estou estudando**🧩
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<img title="MySQL" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img title="Node.js" alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-### GitHub Stats ⚡
+## **GitHub Stats** ⚡
 
 <div align="center">
 <a href="https://github.com/sstephanier">
@@ -33,13 +33,14 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sstephanier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
+## Entre em contato comigo 📭
 <div>
 <!-- <a href="https://www.youtube.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
 <a href="https://instagram.com/sstephanier" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!-- <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
 <a href="[https://www.linkedin.com/in/seu-usuário-aqui](https://www.linkedin.com/in/stephanie-rodrigues-62a475120/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 <!-- <picture>
 <source
