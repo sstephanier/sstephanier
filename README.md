@@ -26,10 +26,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### GitHub Stats ⚡
+
 <div align="center">
 <a href="https://github.com/sstephanier">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sstephanier&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sstephanier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sstephanier&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=sstephanier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
